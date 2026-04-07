@@ -1,7 +1,3 @@
-Para tu repositorio de GitHub, lo ideal es un archivo README.md que sea profesional, explique la tecnología utilizada y muestre que eres un estudiante de ingeniería con un enfoque práctico.
-
-Aquí tienes una estructura lista para copiar y pegar:
-
 ProFESC - Sistema de Evaluación Docente 🎓
 ProFESC es una plataforma web full-stack diseñada para la comunidad estudiantil de la Facultad de Estudios Superiores Cuautitlán (UNAM). El objetivo del proyecto es permitir a los alumnos calificar y compartir reseñas sobre el desempeño académico de sus profesores, ayudando a otros compañeros en la toma de decisiones durante el proceso de inscripción.
 
