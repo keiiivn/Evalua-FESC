@@ -1,4 +1,4 @@
-ProFESC - Sistema de Evaluación Docente 🎓
+ProFESC - Sistema de Evaluación Docente 
 ProFESC es una plataforma web full-stack diseñada para la comunidad estudiantil de la Facultad de Estudios Superiores Cuautitlán (UNAM). El objetivo del proyecto es permitir a los alumnos calificar y compartir reseñas sobre el desempeño académico de sus profesores, ayudando a otros compañeros en la toma de decisiones durante el proceso de inscripción.
 
 El diseño está inspirado en la identidad institucional de la FESC, utilizando una paleta de colores azul y oro, con una interfaz moderna y responsiva.
